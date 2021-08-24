@@ -1,2 +1,9 @@
-There was once a boy named steve, but he got too papered, now he is paper matt
+<<<<<<< HEAD
+There was once a boy named steve, but he got too papered, now he is paper steve
 
+||||||| merged common ancestors
+There was once a boy named steve, but he got too papered, now he is paper steve
+=======
+There was once a boy named steve, but he got too papered, now he is paper steve
+
+>>>>>>> broke
